@@ -1,0 +1,37 @@
+{
+    "mainlogo" : "image 1.png",
+
+    "nav1" : "Home",
+    "nav2" : "Services",
+    "nav3" : "About",
+    "nav4" : "Contact",
+
+    "login" : "Login / Signup",
+
+    "when" : "Whenever Wherever",
+    "lets" : "lets go together",
+
+    "start" : "Get Started",
+
+    "benze" : "benzhe.jpg",
+
+    "why" : "Why Choose RENT N GO ?",
+
+    "logo1" : "speed.png",
+    "head1" : "Fast &  Easy Booking " ,
+    "txt1"  :  "Book your car online. Follow the easy process to book your car online. Or just call us anytime from anywhere",
+    
+    "logo2" : "pickup.png",
+    "head2" : "Many Pickup Location",    
+    "txt2"  : "We have an extensive number of cars that will be available to pick up from any location throughout the city.",
+   
+    "logo3" : "customers.png",
+    "head3" : "Satisifed Customers",  
+    "txt3"  : "We have many happy customers and it’s increasing.",
+
+    "abtimg" : "audi.jpg",
+    "abt" : "About Us", 
+    "txt4":  "Rent-N-Go is an ongoing success start-up. Our guiding principles, and humble beginning, revolve around personal honesty and integrity. We believe in strengthening our communities, serving our customers as our family, and rewarding hard work. Self-drive cars from Zoomcar have given customers more control, privacy, and freedom.Our aim is to fulill the dream of people who want to drive luxurious cars.",
+    "wave" : "wave 2.png"
+   
+}   
